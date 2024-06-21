@@ -1,0 +1,3 @@
+*.app
+.vscode/*
+Translations/MSCP.g.xlf
